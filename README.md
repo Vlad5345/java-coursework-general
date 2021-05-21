@@ -1,2 +1,2 @@
 # java-coursework-general
-Calculator on java
+Seabattle on java
